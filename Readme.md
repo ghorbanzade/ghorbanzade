@@ -1,8 +1,8 @@
 # Hey, I'm Pejman
 
-I am the Founder of [Touca], a developer tool that helps software engineers
-see the true impact of their code changes on the behavior and performance of
-their software.
+I am building [Touca](https://github.com/trytouca/trytouca), an open-source
+regression testing system that helps engineers find the side-effects of their
+daily code changes on the behavior and performance of their software.
 
 Before Touca, I was a senior software engineer at Canon Medical Informatics,
 building software for 3D visualization of medical images. Before that, I
@@ -18,4 +18,3 @@ to refactor and test non-trivial applications.
 Best way to reach me is [email](mailto:pejman@touca.io). I'm also active on
 [Twitter](https://twitter.com/heypejman).
 
-[Touca]: https://touca.io
