@@ -1,12 +1,13 @@
 # Hey, I'm Pejman
 
-I am building [Touca](https://github.com/trytouca/trytouca) to help engineering teams find the
-unintended side-effects of day-to-day code changes on the behavior and
-performance of their software.
+I am a staff software engineer at [Aurora](https://aurora.tech/company), helping
+deliver the benefits of self-driving technology safely, quickly, and broadly.
 
-Before Touca, I was a senior software engineer at Canon Medical Informatics
-building medical software for 3D visualization of MRI and CT datasets. Before that, I
-was a software engineer at VMware Carbon Black.
+Before joining Aurora, I was the founder and CEO of
+[Touca](https://github.com/trytouca/trytouca), a developer-tools startup helping
+engineering teams find the unintended side-effects of day-to-day code changes on
+the behavior and performance of their software. Before that, I worked at Canon
+Medical Informatics and VMware Carbon Black.
 
 I am interested in problems related to the design and maintenance of software at
 scale and over time. I am passionate about solutions to improve stability and
