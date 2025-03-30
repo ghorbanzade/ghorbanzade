@@ -3,8 +3,8 @@
 I am a senior staff software engineer at [Aurora](https://aurora.tech/company),
 helping deliver the benefits of self-driving technology safely, quickly, and
 broadly.
-I lead the engineering team behind the various web applications that are
-critical to the development of our autonomy software.
+I lead the engineering team behind the various web applications that power the
+day-to-day development of our autonomy software.
 
 Before joining Aurora, I was the founder and CEO of
 [Touca](https://github.com/trytouca/trytouca), a developer-tools startup helping
